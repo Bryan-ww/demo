@@ -54,8 +54,8 @@ export default {
     },
     login(){
       this.$refs.form.validate((valid)=>{
-        // valid未布尔值
-        console.log(valid);
+        // valid为布尔值
+        if(!valid) return 
       })
     }
   }
