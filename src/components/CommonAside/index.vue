@@ -19,7 +19,7 @@
             <span slot="title">{{item.label}}</span>
         </el-menu-item>
         </el-menu>
-        <el-button type="primary">sdsds</el-button>
+        <el-button type="primary">大苏打撒</el-button>
  </div>
 </template>
 
